@@ -1,0 +1,159 @@
+.l1{
+    margin: 0px;
+ font-family: sans-serif;
+ font-size: 50px;
+ color: black;
+ line-height: normal;
+}
+
+.boder1{
+    margin: 65px;
+    border-left: 4px solid red ;
+    height: 100px;
+    
+}
+.l2{
+    line-height: 35px;
+    margin: 10px;
+    font-family: sans-serif;
+    font-size: 50px;
+    color: rgba(103, 31, 161, 0.966);
+   }
+   
+   #paragraph{
+       margin: 65px;
+   }
+section{
+    
+    display: flex;
+}
+.half-width{
+    width: 50%;
+}
+.half-width img{
+    width: 70%;
+    margin-left: 130px;
+    margin-top: 40px;
+}
+#s{
+    margin: 65px;
+}
+    .about-btn{
+    color: rgb(242, 242, 246);
+    background: linear-gradient(90deg, #EC37D0, #D92B2B,  #EC37D0);
+    text-decoration: none;
+    padding: 10px 40px ;
+    direction: none;
+    margin: 65px;
+}
+   
+.mission-head{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 60px;
+}
+#span {
+    color :chocolate;
+}
+
+
+#ucl{
+    padding: 30px;
+    height: 200px;
+    margin-top: 10px;
+}
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    width: 400px;
+    margin-left: 65px;
+    margin-right: 65px;
+    align-items: center;
+  }
+  
+  
+  .container {
+    padding: 2px 16px;
+    font: 1em sans-serif;
+    
+  }
+  .all{
+      display: flex;
+  }
+#x{
+    margin-top: 150px;
+    margin-left: 65px;
+    width: 500px;
+    border-radius: 8px;
+}
+.fcb-txt{
+    
+    margin: 125px;
+    color: maroon;
+
+    
+}
+#bar{
+    color: mediumblue;
+}
+#btn1{
+    
+    color: rgb(242, 242, 246);
+    background: linear-gradient(90deg, #EC37D0, #D92B2B,  #EC37D0);
+    text-decoration: none;
+    padding: 10px 20px ;
+    direction: none;
+  
+
+}
+.main-fcb{
+    display: flex;
+}
+.another{
+    display: flex;
+}
+
+
+#x1{
+    margin: 95px;
+    margin-top: 150px;
+    width: 500px;
+    border-radius: 8px;
+}
+.fcb-txt1{
+    
+    margin: 95px;
+    color: maroon;
+
+    
+}
+#bar1{
+    color: mediumblue;
+}
+#btn2{
+    
+    color: rgb(242, 242, 246);
+    background: linear-gradient(90deg, #EC37D0, blue,  #EC37D0);
+    text-decoration: none;
+    padding: 10px 20px ;
+    direction: none;
+  
+
+}
+
+
+
+.footer {
+    height: 200px;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 50px;
+
+ }
+ #fot{
+     color: yellow;
+     text-align: center;
+   
+ }
